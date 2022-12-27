@@ -1,4 +1,4 @@
-### Hi you can call me Reza 👋
+## Hi, you can call me Reza 👋
 
 ### 🔭 I’m currently working on [Cexup](https://cexup.com)
 
@@ -13,6 +13,12 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
   </a> 
 </p>
+
+## 🛠️ Skills
+
+![expressJS](https://img.shields.io/badge/express%20js-20232A?style=for-the-badge&logo=express&logoColor=yellow)
+![laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=red)
+![mysql](https://img.shields.io/badge/mysql-20232A?style=for-the-badge&logo=mysql&logoColor=blue)
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=rezapfebriyan&theme=vue&hide_border=false&include_all_commits=true&count_private=true)
