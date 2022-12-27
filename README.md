@@ -1,6 +1,6 @@
 ### Hi you can call me Reza 👋
 
-## 🔭 I’m currently working on [Cexup](https://cexup.com)
+# 🔭 I’m currently working on [Cexup](https://cexup.com)
 
 
 <h3 align="left">You can connect with me on:</h3>
