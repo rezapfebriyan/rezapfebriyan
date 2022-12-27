@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi you can call me Reza 👋
 
-- 🔭 I’m currently working on [Cexup](https://cexup.com)
+## 🔭 I’m currently working on [Cexup](https://cexup.com)
 
+
+<h3 align="left">You can connect with me on:</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/rezapfebriyan/">
@@ -12,3 +14,7 @@
   </a> 
 </p>
 
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=rezapfebriyan&theme=vue&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rezapfebriyan&theme=vue&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rezapfebriyan&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
