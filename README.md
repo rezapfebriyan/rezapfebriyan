@@ -1,6 +1,8 @@
 ## Hi, you can call me Reza 👋
 
-### 🔭 I’m currently working on [Cexup](https://cexup.com)
+### 👯 About
+- ☕ I’m currently working on ...I’m currently working on [Cexup](https://cexup.com)
+- 🌱 I’m currently learning Express JS, Docker and Mongo DB
 
 
 <h3 align="left">You can connect with me on:</h3>
