@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
   </a> 
 </p>
- hammer_and_wrench  technologist
+
 ## 🛠️ Skills
 
 ![expressJS](https://img.shields.io/badge/express%20js-20232A?style=for-the-badge&logo=express&logoColor=yellow)
