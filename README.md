@@ -2,7 +2,7 @@
 
 ### 👯 About
 - ☕ I’m currently working on [Cexup](https://cexup.com) as Junior Back End Developer
-- 🌱 I’m currently learning Express JS, Docker and Mongo DB
+- 🌱 I’m currently learning Express JS, Docker Container and Mongo DB
 
 
 <h3 align="left">You can connect with me on :</h3>
