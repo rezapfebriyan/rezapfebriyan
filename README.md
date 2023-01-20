@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Express JS, Docker and Mongo DB
 
 
-<h3 align="left">You can connect with me on:</h3>
+<h3 align="left">You can connect with me on :</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/rezapfebriyan/">
