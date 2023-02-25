@@ -5,8 +5,7 @@
 - 🌱 and currently learning Express JS, Docker Container and Mongo DB
 
 <h3 align="left">You can connect with me on :</h3>
-📫 Email to rezaputrafebriyan@gmail.com
-Or,
+<p> 📫 Email to rezaputrafebriyan@gmail.com </p>
 <p>
   <a href="https://www.linkedin.com/in/rezapfebriyan/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
