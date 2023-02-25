@@ -1,7 +1,7 @@
 ## Hi, you can call me Reza 👋
 
-### 👯 About
-- ☕ I’m currently working at [Cexup](https://cexup.com) as Junior Back End Developer
+### ☕ About
+- 🔭 I’m currently working at [Cexup](https://cexup.com) as Junior Back End Developer
 - 🌱 and currently learning Express JS, Docker Container and Mongo DB
 
 
