@@ -2,7 +2,7 @@
 
 ## ☕ About
 - 🔭 I’m currently working at [Cexup](https://cexup.com) as Junior Back End Developer
-- 🌱 and currently learning Node JS (Express JS), Docker Container and Mongo DB
+- 🌱 and currently learning Node JS (Express JS), Docker Container and Design Pattern
 
 <h3 align="left">You can connect with me on :</h3>
 <p> 📫 Email to rezaputrafebriyan@gmail.com </p>
