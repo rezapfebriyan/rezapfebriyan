@@ -3,8 +3,8 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I’m currently working at [Cexup](https://cexup.com) as Junior Back End Developer.<br>
-        Currently learning Node JS (Express JS), Docker Container and Typescript.<br>
+        - I’m currently working at [Cexup](https://cexup.com) as Junior Back End Developer
+        - Currently learning Node JS (Express JS), Docker Container and Typescript.<br>
     </i>
   <br>
     <a href="https://www.linkedin.com/in/rezapfebriyan">
