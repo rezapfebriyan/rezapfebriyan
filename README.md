@@ -20,8 +20,8 @@
 ![expressJS](https://img.shields.io/badge/express%20js-20232A?style=for-the-badge&logo=express&logoColor=yellow)
 ![laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=red)
 ![mysql](https://img.shields.io/badge/mysql-20232A?style=for-the-badge&logo=mysql&logoColor=blue)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)]
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)]
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=rezapfebriyan&theme=vue&hide_border=false&include_all_commits=true&count_private=true)
