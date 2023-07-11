@@ -1,9 +1,8 @@
 ## Hi, you can call me Reza 👋
 
-<div align="center">
-    <b>Welcome to my page!</b><br><br>
-        I’m currently working at [Cexup](https://cexup.com/) as Junior Back End Developer.<br>
-        Currently learning Node JS (Express JS), Docker Container and Typescript.<br>
+<b>Welcome to my page!</b><br><br>
+    I’m currently working at [Cexup](https://cexup.com/) as Junior Back End Developer.<br>
+    Currently learning Node JS (Express JS), Docker Container and Typescript.<br>
   <br>
     <a href="https://www.linkedin.com/in/rezapfebriyan">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -15,7 +14,6 @@
   <a href="https://www.instagram.com/rezapfebriyan/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
   </a>
-</div>
 
 ### 🛠️ Tech Skills
 
