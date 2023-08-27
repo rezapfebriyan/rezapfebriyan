@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I’m currently working at Cexup as Junior Back End Developer.<br>
-        And currently, i'm learning Node JS (Express), Docker Container and Typescript.<br>
+        And currently, i'm learning Node JS (Express JS), Docker Container and Typescript.<br>
     </i>
   <br>
     <a href="https://www.linkedin.com/in/rezapfebriyan">
