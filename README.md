@@ -43,9 +43,3 @@
   </a>
 </p>
 </details>
-
-<p align="center">
-  <a href="https://github.com/rezapfebriyan">
-    <img src="https://komarev.com/ghpvc/?username=rezapfebriyan&color=blue&style=flat)" />
-  </a>
-</p>
